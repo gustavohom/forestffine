@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_affine_monorepo=globalThis.webpackChunk_affine_monorepo||[]).push([["1487"],{67720(e,n,a){a(21351);let{abs:o,max:p,min:s}=Math;function t(e){return{type:e}}["w","e"].map(t),["n","s"].map(t),["n","w","e","s","nw","ne","sw","se"].map(t)}}]);
+//# sourceMappingURL=npm-async-d3-brush.51f02fb4.js.map

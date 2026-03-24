@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_affine_monorepo=globalThis.webpackChunk_affine_monorepo||[]).push([["4101"],{72101(n,o,e){e.d(o,{wq:()=>a});function a(n){return((n*=2)<=1?n*n*n:(n-=2)*n*n+2)/2}}}]);
+//# sourceMappingURL=npm-async-d3-ease.074404ec.js.map

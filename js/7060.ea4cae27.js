@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_affine_monorepo=globalThis.webpackChunk_affine_monorepo||[]).push([["7060"],{54111(o,e,s){s.d(e,{Transformer:()=>a.G});var a=s(12249);let r="u">typeof globalThis?globalThis:"u">typeof window?window:{},l="__ $BLOCKSUITE_STORE$ __";!0===r[l]&&console.error("@blocksuite/store was already imported. This breaks constructor checks and will lead to issues!"),r[l]=!0}}]);
+//# sourceMappingURL=7060.ea4cae27.js.map

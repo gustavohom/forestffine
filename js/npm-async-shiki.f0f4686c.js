@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_affine_monorepo=globalThis.webpackChunk_affine_monorepo||[]).push([["9829"],{47740(a,e,n){n.r(e),n.d(e,{default:()=>r.default});var r=n(97761)},9878(a,e,n){n.r(e),n.d(e,{default:()=>r.default});var r=n(17233)},68586(a,e,n){n.r(e),n.d(e,{default:()=>r.Ay,getWasmInstance:()=>r.En,wasmBinary:()=>r.sh});var r=n(42328)}}]);

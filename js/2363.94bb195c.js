@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_affine_monorepo=globalThis.webpackChunk_affine_monorepo||[]).push([["2363"],{75446(e,n,o){o.r(n),o.d(n,{Component:()=>s});var a=o(74848),l=o(16168),p=o(96540),r=o(47101);let s=()=>{let{jumpToIndex:e}=(0,r.PC)(),n=(0,p.useCallback)(()=>{e(r.Q$.REPLACE)},[e]);return(0,a.jsx)(l.Hp,{onOpenAffine:n})}}}]);
+//# sourceMappingURL=2363.94bb195c.js.map

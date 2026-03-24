@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_affine_monorepo=globalThis.webpackChunk_affine_monorepo||[]).push([["5817"],{65728(o,s,a){a.d(s,{_:()=>h});var l=a(74848),e=a(23223),n=a(46413),c=a(623),r=a(25712),i=a(39175);let h=()=>(0,l.jsx)(n.$Q,{tabId:"all-docs-journal",icon:(0,l.jsx)(c.TodayIcon,{}),children:(0,l.jsxs)(e.yE.Root,{className:r.vg,children:[(0,l.jsx)(e.yE.Viewport,{children:(0,l.jsx)(i.B,{})}),(0,l.jsx)(e.yE.Scrollbar,{})]})})}}]);
+//# sourceMappingURL=5817.866c8162.js.map
